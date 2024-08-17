@@ -9,7 +9,7 @@ setTimeout(() => {
    loder.classList.add("add1")
    type.classList.add("add1")
 }, 
-// 3500
+3500
 );
 window.addEventListener("scroll",()=>{
 var nav=document.querySelector(".navbc");
